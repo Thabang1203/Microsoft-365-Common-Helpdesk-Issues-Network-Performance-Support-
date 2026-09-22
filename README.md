@@ -1,56 +1,79 @@
-IT Support Projects
+# IT Support Projects
 
-Welcome to my IT Support Projects repository. This repository showcases practical helpdesk and technical support work completed through simulated real-world IT support scenarios, focusing on troubleshooting, incident management, customer communication, and ticket documentation.
+## Overview
 
-Project Overview
+A collection of hands-on IT support projects based on simulated real-world helpdesk scenarios.
 
-This project demonstrates my ability to investigate, troubleshoot, document, and resolve common IT support issues using a structured helpdesk approach. The work includes Microsoft 365 support and Network & Performance troubleshooting scenarios documented through Zendesk-style ticket management. Based on Thabang_Norman_Lesotho_Helpdesk_Simulation_Documentation.docx.
+This repository demonstrates practical experience using **Zendesk as a ticketing system** to manage technical support requests from initial ticket creation through investigation, troubleshooting, customer communication, resolution, and ticket closure.
 
-Scenario Categories
-Microsoft 365 & Common Helpdesk Issues
-OneDrive Keeps Asking Me to Sign In
-Microsoft Teams Showing "You're Offline" Despite Internet Connection
-Network & Performance Support
-Laptop Connected to Wi-Fi but Showing "No Internet Access"
-Unable to Access Certain Websites
-Wi-Fi Keeps Disconnecting
-Skills Demonstrated
-IT Helpdesk Support
-Incident Management
-Troubleshooting Methodologies
-Root Cause Analysis
-Microsoft 365 Support
-OneDrive Administration
-Microsoft Teams Support
-Network Connectivity Troubleshooting
-DNS Troubleshooting
-Customer Communication
-Zendesk Ticket Documentation
-Technical Documentation
-Tools Used
-Zendesk
-Microsoft Teams
-Microsoft OneDrive
-Windows Command Prompt
-Network Configuration Tools
-DNS Utilities (ipconfig /flushdns, ipconfig /release, ipconfig /renew)
-Key Learning Outcomes
+## Zendesk Ticketing Experience
 
-Through this project, I strengthened my ability to:
+Through these projects, I gained hands-on experience with Zendesk helpdesk workflows, including:
 
-Investigate and resolve technical issues systematically.
-Communicate professionally with end users.
-Document troubleshooting activities clearly and accurately.
-Apply networking and Microsoft 365 support concepts in practical scenarios.
-Verify solutions and ensure successful issue resolution.
-Repository Contents
-Ticket Portfolio Documentation
-Helpdesk Simulation Deliverables
-Supporting Evidence and Screenshots
-Troubleshooting Records
-Customer Communication Examples
-Author
+- Creating and managing support tickets
+- Reviewing and categorizing incidents
+- Setting ticket priority and status
+- Writing professional public replies to users
+- Adding clear internal troubleshooting notes
+- Documenting investigation steps and findings
+- Escalating issues when required
+- Recording resolutions and root causes
+- Updating tickets throughout the support lifecycle
+- Verifying solutions before marking tickets as solved
+- Maintaining clear and professional ticket documentation
 
-Thabang Norman Lesotho
+## Support Scenarios
 
-Aspiring IT Support Specialist | Helpdesk Support | Microsoft 365 | Networking | Technical Troubleshooting
+### Microsoft 365 Support
+- OneDrive repeatedly requesting sign-in
+- Microsoft Teams showing offline despite an active internet connection
+
+### Network & Connectivity Support
+- Laptop connected to Wi-Fi with no internet access
+- Unable to access specific websites
+- Wi-Fi repeatedly disconnecting
+- DNS and network configuration issues
+
+## Skills Demonstrated
+
+`Zendesk` `Ticket Management` `IT Helpdesk` `Incident Management` `IT Support` `Microsoft 365` `Microsoft Teams` `OneDrive` `Networking` `DNS` `Troubleshooting` `Root Cause Analysis` `Customer Communication`
+
+## Tools Used
+
+- **Zendesk - Ticketing & Incident Management**
+- Microsoft Teams
+- Microsoft OneDrive
+- Windows Command Prompt
+- Windows Network Configuration Tools
+- DNS utilities including `ipconfig /flushdns`, `ipconfig /release`, and `ipconfig /renew`
+
+## Ticket Workflow
+
+My support process follows a structured ticket lifecycle:
+
+**Ticket Created → Initial Investigation → First Public Reply → Research → Troubleshooting → Findings → Resolution → Final Public Reply → Ticket Solved**
+
+This approach ensures that troubleshooting activities, customer communication, technical findings, and final resolutions are properly documented.
+
+## Key Learning Outcomes
+
+Through these projects, I developed practical experience in:
+
+- Managing support incidents using Zendesk
+- Following structured helpdesk ticket workflows
+- Investigating and resolving technical issues systematically
+- Applying troubleshooting and root cause analysis
+- Supporting Microsoft 365 and network-related issues
+- Communicating professionally with end users
+- Writing clear internal notes and customer-facing responses
+- Documenting solutions for future reference
+- Verifying successful resolution before closing tickets
+
+## Repository Contents
+
+- Zendesk-style ticket documentation
+- Helpdesk simulation deliverables
+- Troubleshooting records
+- Customer communication examples
+- Technical investigation and resolution notes
+- Supporting screenshots and evidence
